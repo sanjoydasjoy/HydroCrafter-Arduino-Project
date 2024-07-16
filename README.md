@@ -17,6 +17,9 @@ apartments, and commercial buildings. However, while hydroponic systems
 hold great promise, they also present unique maintenance challenges that can
 deter individuals from adopting this innovative farming method.
 
+___
+
+
 ## Key Terms
 - [Introduction](#introduction)
 - [Problem Statement](#problem_statement)
@@ -29,6 +32,8 @@ deter individuals from adopting this innovative farming method.
 - [Conclusion](#conclusion)
 - [References](#references)
 
+
+___
 
 
 
@@ -74,5 +79,113 @@ easily check the system's working condition and receive notifications or alerts
 when necessary.
 4. Enhance Accessibility: Design the automated system to be affordable,
 scalable, and easy to install.
+
+___
+
+
+## Hardware Requirements
+1. Arduino Microcontroller:
+- Choose an Arduino board (e.g., Arduino Uno, Arduino Mega) as the central
+control unit for the system.
+2. Sensors:
+- Water level sensors compatible with Arduino.
+- Light sensors compatible with Arduino.
+- Oxygen sensors compatible with Arduino.
+- pH sensors compatible with Arduino.
+- Electrical conductivity (EC) sensors compatible with Arduino.
+3. Actuators:
+- Water pumps with Arduino-compatible control.
+- Automated nutrient dosing system with Arduino integration.
+- Adjustable LED lights with Arduino control.
+4. Communication Module:
+- Wi-Fi or Bluetooth module compatible with Arduino for remote monitoring and
+control.
+5. User Interface:
+- Mobile app or web application interface communicating with Arduino for remote
+monitoring.
+6. Power Supply:
+- Provide a power source compatible with the Arduino board and connected
+components.
+7. Aeration System:
+- Air pumps and diffusers compatible with Arduino for maintaining oxygen levels.
+
+
+___
+
+
+## Software Requirements
+1. Arduino IDE:
+- Arduino Integrated Development Environment (IDE) for programming the Arduino
+microcontroller.
+2. User Interface Software:
+- Develop a graphical user interface (GUI) for on-site monitoring using
+Arduino-compatible display libraries.
+- Create a mobile or web application for remote monitoring and control, possibly
+using languages such as HTML, CSS, and JavaScript.
+3. Programming Languages:
+- Use Node.js/C++/JavaScript/Python/Java for programming the Arduino
+microcontroller.
+- Employ additional languages as needed for web or mobile application
+development.
+4. Version Control:
+- Implement version control using platforms like Git for tracking changes in your
+software codebase.
+
+
+
+___
+
+
+
+## Cost Estimation
+- Arduino Board:
+- Arduino Uno: 750 BDT
+- Sensors:
+- Water level sensors: 275 BDT each
+- Light sensors: 350 BDT each
+- Oxygen sensors: 500 BDT each
+- pH sensors: 750 BDT each
+- Actuators:
+- Water pumps: 350 BDT each
+- Nutrient dosing system: 100 BDT
+- Adjustable LED lights: 200 BDT
+- Miscellaneous Components:
+- Wiring, connectors, and other miscellaneous components: 750 BD
+
+
+
+
+___
+
+
+
+## Conclusion
+In conclusion, the proposed hydroponic farming project aims to automate
+urban agriculture using an Arduino-based system. Estimated at approximately
+11,875 BDT, the project streamlines maintenance, making it accessible for
+urban farmers and contributing to a sustainable and self-sufficient future.
+
+
+___
+
+
+## References
+1. researchgate
+https://www.researchgate.net/publication/372441562_Automatic_Hydroponics
+_Farming_System_with_Image_Processing_Based_Smart_Nutrients_System
+2. https://www.hindawi.com/journals/jnm/2022/4435591/
+3. Robotics BD.. store.roboticsbd.com
+
+
+___
+
+
+## Authors
+1. Sanjoy Das (Registration No: 2020331023)
+2. Nayem Ahmed (Registration No: 2020331048)
+3. Manisa Rahman (Registration No: 2020331058)
+4. Tajul Islam Tarek (Registration No: 2020331067)
+5. Mustakim Billah Nafees (Registration No: 2020331097)
+
 
 ___
