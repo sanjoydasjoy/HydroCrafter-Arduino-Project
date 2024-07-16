@@ -139,7 +139,7 @@ ___
 
 
 ## Hydrocrafter 
-![Image Alt Text](/crafter.jpg)
+<img src="/crafter.jpg"  width="300">
 
 
 
