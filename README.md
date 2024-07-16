@@ -18,4 +18,4 @@ hold great promise, they also present unique maintenance challenges that can
 deter individuals from adopting this innovative farming method.
 
 ## Key Terms
-- [Introduction]
+- [Introduction](#introduction)
