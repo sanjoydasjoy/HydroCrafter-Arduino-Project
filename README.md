@@ -16,3 +16,6 @@ grow a wide variety of crops in compact indoor spaces, including homes,
 apartments, and commercial buildings. However, while hydroponic systems
 hold great promise, they also present unique maintenance challenges that can
 deter individuals from adopting this innovative farming method.
+
+## Key Terms
+- [Introduction]
