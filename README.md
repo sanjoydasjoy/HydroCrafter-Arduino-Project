@@ -19,3 +19,11 @@ deter individuals from adopting this innovative farming method.
 
 ## Key Terms
 - [Introduction](#introduction)
+- [Problem Statement](#problem_statement)
+- [Proposed Solution](#proposed_solution)
+- [Aim](#aim)
+- [Hardware Requirements](#hardware_requirements)
+- [Software Requirements](#software_requirements)
+- [Cost Estimation](#cost_estimation)
+- [Conclusion](#conclusion)
+- [References](#references)
