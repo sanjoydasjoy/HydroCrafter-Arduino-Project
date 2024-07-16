@@ -27,3 +27,18 @@ deter individuals from adopting this innovative farming method.
 - [Cost Estimation](#cost_estimation)
 - [Conclusion](#conclusion)
 - [References](#references)
+
+
+
+
+## Introduction
+Urban hydroponic farming faces a hurdle in widespread adoption due to
+the labor-intensive and complex maintenance requirements. Manual
+monitoring of water levels, nutrient solutions, and environmental
+conditions creates a barrier for urban dwellers seeking an accessible
+and efficient way to grow fresh produce at home. An automated solution
+is essential to simplify the process and make hydroponic farming a
+viable option for urban residents.
+
+---
+___
