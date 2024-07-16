@@ -1,7 +1,7 @@
 # HydroCrafter-Arduino-Project
 IoT-integrated, sensor-driven automated hydroponics for optimized plant growth and resource efficiency
 
-Background
+# Background
 Traditional agricultural practices face numerous challenges in meeting the
 growing demand for fresh produce in urban areas. Limited space, soil
 degradation, and water scarcity are just a few of the obstacles that hinder
