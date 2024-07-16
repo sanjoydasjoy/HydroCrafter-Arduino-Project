@@ -138,9 +138,12 @@ ___
 
 
 
-## Hydrocrafter
+## Hydrocrafter 
+![Image Alt Text](images/crafter.jpg)
 
 
+
+___
 
 
 ## Cost Estimation
