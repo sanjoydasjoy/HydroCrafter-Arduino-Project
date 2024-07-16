@@ -139,7 +139,7 @@ ___
 
 
 ## Hydrocrafter 
-![Image Alt Text](images/crafter.jpg)
+![Image Alt Text](/crafter.jpg)
 
 
 
