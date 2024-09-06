@@ -139,7 +139,7 @@ ___
 
 
 ## Diagram 
-<img src="/diagram.jpg"  width="300">
+<img src="/diagram.jpg"  width="500">
 
 
 
@@ -149,7 +149,7 @@ ___
 
 
 ## Hydrocrafter 
-<img src="/crafter.jpg"  width="300">
+<img src="/crafter.jpg"  width="500">
 
 
 
