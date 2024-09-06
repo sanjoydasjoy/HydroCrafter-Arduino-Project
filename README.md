@@ -28,6 +28,7 @@ ___
 - [Objectives](#objectives)
 - [Hardware Requirements](#hardware_requirements)
 - [Software Requirements](#software_requirements)
+- [Diagram](#diagram)
 - [HydroCrafter](#hydrocrafter)
 - [Cost Estimation](#cost_estimation)
 - [Conclusion](#conclusion)
@@ -135,6 +136,15 @@ software codebase.
 
 
 ___
+
+
+## Diagram 
+<img src="/diagram.jpg"  width="300">
+
+
+
+___
+
 
 
 
