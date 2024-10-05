@@ -200,11 +200,11 @@ ___
 
 
 ## Authors
-1. Sanjoy Das (Registration No: 2020331023)
-2. Nayem Ahmed (Registration No: 2020331048)
-3. Manisa Rahman (Registration No: 2020331058)
-4. Tajul Islam Tarek (Registration No: 2020331067)
-5. Mustakim Billah Nafees (Registration No: 2020331097)
+1. Unayes Ahmed Khan
+2. Nayem Ahmed
+3. Azizul Haque Munna
+4. Saeed Ahmed Mridha
+5. Ibnul Mansib
 
 
 ___
