@@ -200,11 +200,11 @@ ___
 
 
 ## Authors
-1. Unayes Ahmed Khan
+1. Sanjoy Das
 2. Nayem Ahmed
-3. Azizul Haque Munna
-4. Saeed Ahmed Mridha
-5. Ibnul Mansib
+3. Manisa Rahman
+4. Tajul Islam Tarek
+5. IMustakim Billah Nafees
 
 
 ___
